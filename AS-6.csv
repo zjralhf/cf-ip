@@ -1,5 +1,6 @@
-2606:4700:90d1:5c74:bce5:1d3b:f48b:ac02,HKG,Asia Pacific,Hong Kong,41 ms
-2606:4700:9b03:3d0b:ed63:d9a9:b317:1624,HKG,Asia Pacific,Hong Kong,42 ms
-2606:4700:99e4:2347:f823:a907:b59:226e,HKG,Asia Pacific,Hong Kong,42 ms
-2606:4700:9ad0:2ac:db30:1b01:7d07:20ef,HKG,Asia Pacific,Hong Kong,42 ms
-2606:4700:90cb:e735:cba:186c:37ed:9d78,HKG,Asia Pacific,Hong Kong,43 ms
+IP 地址,已发送,已接收,丢包率,平均延迟,下载速度 (MB/s)
+[2606:4700:90d1:5c74:bce5:1d3b:f48b:ac02],HKG,Asia Pacific,Hong Kong,41 ms,
+[2606:4700:9b03:3d0b:ed63:d9a9:b317:1624],HKG,Asia Pacific,Hong Kong,42 ms,
+[2606:4700:99e4:2347:f823:a907:b59:226e],HKG,Asia Pacific,Hong Kong,42 ms,
+[2606:4700:9ad0:2ac:db30:1b01:7d07:20ef],HKG,Asia Pacific,Hong Kong,42 ms,
+[2606:4700:90cb:e735:cba:186c:37ed:9d78],HKG,Asia Pacific,Hong Kong,43 ms,
