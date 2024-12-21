@@ -1,5 +1,6 @@
-162.159.40.105,HKG,Asia Pacific,Hong Kong,42 ms
-104.18.189.31,HKG,Asia Pacific,Hong Kong,42 ms
-162.159.245.151,HKG,Asia Pacific,Hong Kong,42 ms
-104.18.65.171,HKG,Asia Pacific,Hong Kong,42 ms
-162.159.11.9,HKG,Asia Pacific,Hong Kong,42 ms
+IP 地址,已发送,已接收,丢包率,平均延迟,下载速度 (MB/s)
+162.159.40.105,HKG,Asia Pacific,Hong Kong,42 ms,
+104.18.189.31,HKG,Asia Pacific,Hong Kong,42 ms,
+162.159.245.151,HKG,Asia Pacific,Hong Kong,42 ms,
+104.18.65.171,HKG,Asia Pacific,Hong Kong,42 ms,
+162.159.11.9,HKG,Asia Pacific,Hong Kong,42 ms,
